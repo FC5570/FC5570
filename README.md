@@ -5,4 +5,4 @@
 - 💬 Ask me about anything :D
 - 📫 How to reach me: Discord: FC#5570
 - 😄 Pronouns: He/Him
-<img src="https://github-readme-stats.vercel.app/api?username=FC5570&show_icons=true&theme=radical&count_private=true&custom_title=My Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=FC5570&show_icons=true&theme=radical&count_private=true&custom_title=My Stats&include_all_commits=true">
