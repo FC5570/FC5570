@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=FC5570" alt="FC5570" /> </p
 - 🔭 I’m currently working on [Anthem](https://discord.com/oauth2/authorize?client_id=734020393354002482&permissions=469888087&scope=bot)
 - 🌱 I’m currently learning JavaScript and HTML
 - 💬 Ask me about anything :D
