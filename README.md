@@ -12,3 +12,4 @@
 - ⚡ Fun Fact: I star my own repos
 
 <img src="https://github-readme-stats.vercel.app/api?username=FC5570&show_icons=true&theme=radical&count_private=true&custom_title=My Stats&include_all_commits=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FC5570&layout=compact">
