@@ -27,8 +27,4 @@
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FC5570&layout=compact&theme=radical">
  </p>
  
- <p align="center">
- <img src="https://ss.fc5570.ml/P8Bt">
- </p>
- 
 </details>
