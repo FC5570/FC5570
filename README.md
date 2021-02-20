@@ -26,4 +26,9 @@
  <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=FC5570&layout=compact&theme=radical">
  </p>
+ 
+ <p align="center">
+ <img src="https://skyline.github.com/api/shot/fc5570/2020.png">
+ </p>
+ 
 </details>
