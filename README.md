@@ -10,6 +10,17 @@
 - ⚡ Fun Fact: I star my own repos
 
 <details>
+ <summary><b>My Projects</b></summary>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=anti-link-for-discord&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Lavalink-Music-Bot-V2&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Discord-Youtube-Notifier-Bot&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Latest-Subreddit-Posts&theme=radical">
+ </p>
+ 
+</details>
+
+<details>
  <summary><b>My Stats</b></summary>
  <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=FC5570&margin-h=25&column=7&theme=juicyfresh">
