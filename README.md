@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Anthem](https://top.gg/bot/734020393354002482)
 
-- 🌱 I’m currently learning JavaScript and HTML
+- 🌱 I’m currently learning Rust and Go
  
 - 📫 How to reach me: Discord: FC#5104
  
