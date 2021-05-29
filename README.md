@@ -7,7 +7,7 @@
  
 - 📫 How to reach me: Discord: FC#5104
  
-- ⚡ Fun Fact: I star my own repos
+- ⚡ Fun Fact: I make Discord Bots for people, DM on Discord to get a custom bot.
 
 <details>
  <summary><b>My Projects</b></summary>
