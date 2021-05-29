@@ -14,7 +14,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=anti-link-for-discord&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Lavalink-Music-Bot-V2&theme=radical">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Discord-Youtube-Notifier-Bot&theme=radical">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Discord-Youtube-Notifier-Bot-V2&theme=radical">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=fc5570&repo=Latest-Subreddit-Posts&theme=radical">
  </p>
  
