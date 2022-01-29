@@ -1,7 +1,7 @@
 # <img src="https://cdn.discordapp.com/emojis/731212038470238299.gif?size=40" /> Hello!
 ![Profile Views](https://komarev.com/ghpvc/?username=FC5570&color=1F6FEB)
 
-I'm FC, a Full Stack Developer mostly working on backend apps. I also work on Discord Bots in my free time. I'm available for hire! Contact me to know more.
+I'm FC, a Full Stack Developer mostly working on backend apps. I also work on Discord Bots in my free time. I'm available for hire! [Contact me](https://github.com/FC5570#-socials) to know more.
 
 # 🛠️ Tools & Technologies
 Tools and techonologies I've used.
