@@ -3,7 +3,6 @@
 
 I'm FC, a Full Stack Developer mostly working on backend apps. I also work on Discord Bots in my free time. I'm available for hire! [Contact me](https://github.com/FC5570#-socials) to know more.
 
-*Looking for a Lyrics API? Consider checking out https://quicklyrics.xyz/*
 # 🛠️ Tools & Technologies
 Tools and techonologies I've used.
 <details>
